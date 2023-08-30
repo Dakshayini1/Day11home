@@ -22,7 +22,7 @@ The HTML file is responsible for creating the user interface and loading the Jav
     <div class="container">
        
       <div class="area">
-        <h2>Welcome to the Ronak's Tip calculator!</h2>
+        <h2>Welcome to the Dakshayini's Tip calculator!</h2>
         <h3>How Much Was Your Bill</h3>
         <div>Rs. <input type="text" id="billAmount" /></div>
         <h3 class="h3">How was your service?</h3>
